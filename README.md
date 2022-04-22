@@ -1,4 +1,5 @@
 # Bot-Showdown
-A IA for pokemon showdown.com
+A bot for pokemon showdown.com.
 
+The bot play random move for now.
 
