@@ -96,5 +96,5 @@ def make_move(browser):
 browser = login("Botshow","projetpython")
 time.sleep(5)
 launch_game(browser,"gen4randombattle")
-partie(browser)cd
+partie(browser)
 
